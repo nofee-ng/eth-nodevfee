@@ -1,0 +1,1 @@
+EthDcrMiner64.exe
