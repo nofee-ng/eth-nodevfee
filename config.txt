@@ -1,4 +1,4 @@
 -epool cn.sparkpool.com:3333
--ewal 0x4f2f2f68dc1da7d293ee7cd2c7555c291c92493c
+-ewal 0x4F2f2F68Dc1Da7D293eE7Cd2c7555c291c92493C
 -eworker %COMPUTERNAME%
 -epsw x

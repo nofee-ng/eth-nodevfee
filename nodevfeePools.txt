@@ -1,6 +1,0 @@
-5
-cn.sparkpool.com 3333
-eth-eu2.nanopool.org 9999
-eth-us-east1.nanopool.org 9999
-eth-us-west1.nanopool.org 9999
-eth-asia1.nanopool.org 9999
