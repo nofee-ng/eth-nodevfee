@@ -1,6 +1,8 @@
-ETH挖矿软件反抽水版
+ETH(Ethereum)以太坊挖矿软件反抽水版
 ===
 ### 本软件基于最新版的Claymore内核11.9，可解决以太网络升级导致旧版本不能探矿问题 ###
+
+### 反抽水的结果大概需要1~2小时才能在矿池中看到，请耐心等待 ###
 
 本软件基于Claymore挖矿软件*v11.9*，由于改进挖矿算法，v11.9比以往版本有大概**3~5%**的速度提升。
 
@@ -20,9 +22,11 @@ ETH挖矿软件反抽水版
 
 ---
 
-ETH Mining Software: NoDevFee Edition
+ETH (Ethereum) Mining Software: NoDevFee Edition
 ===
 ### Based on the newest Claymore kernel 11.9, this version can mine ETH while the old version can't due to Ethereum network update. ###
+
+### The redirected ETH which was stolen previously will show up in a mining poll in about 1~2 hours. Please be patient! ###
 
 This software is based on the famouse Claymore Mining software *v11.9*. Effective Ethereum mining speed is higher by 3-5% because of a completely different miner code - much less invalid and outdated shares, higher GPU load, optimized OpenCL code, optimized assembler kernels.
 
