@@ -26,7 +26,7 @@ As stated by the software author, the original Claymore mining software and its 
 
 ETH(Ethereum)以太坊挖矿软件反抽水版
 ===
-### 本软件基于最新版的Claymore内核12.0，可解决以太网络升级导致旧版本不能探矿问题，并且支持君士坦丁堡硬分叉 ###
+### 本软件基于最新版的Claymore内核12.0，可解决以太网络升级导致旧版本不能挖矿问题，并且支持君士坦丁堡硬分叉 ###
 
 ### 反抽水的结果大概需要1~2小时才能在矿池中看到，请耐心等待 ###
 
