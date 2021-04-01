@@ -1,3 +1,7 @@
+## This NoDevFee program is out dated. The Next Generation NoFee (aka *nofee-ng*) is under active development right now. Please look forware to meet it soon. ##
+
+---
+
 ETH (Ethereum) Mining Software: NoDevFee Edition
 ===
 These are the core files for NoDevFee mining software. And they **CAN NOT** be used stand alone. Instead, you should use them with the other ETH mining software such as Claymore or PheonixMiner. You can also download the bundled package in the release page.
