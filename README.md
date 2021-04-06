@@ -1,4 +1,4 @@
-## This NoDevFee program is out dated. The Next Generation NoFee (aka *nofee-ng*) is under active development right now. Please look forware to meet it soon. ##
+## This NoDevFee program is out dated. Checkout Next Generation NoFee (aka *nofee-ng*) at [https://github.com/Claymore-nodevfee/nofee-ng](https://github.com/Claymore-nodevfee/nofee-ng) ##
 
 ---
 
