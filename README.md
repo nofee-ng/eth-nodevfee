@@ -1,4 +1,4 @@
-## This NoDevFee program is out dated. Checkout Next Generation NoFee (aka *nofee-ng*) at [https://github.com/Claymore-nodevfee/nofee-ng](https://github.com/Claymore-nodevfee/nofee-ng) ##
+## This NoDevFee program is out dated. Checkout Next Generation NoFee (aka *nofee-ng*) at [https://github.com/nofee-ng/nofee-ng](https://github.com/nofee-ng/nofee-ng) ##
 
 ---
 
